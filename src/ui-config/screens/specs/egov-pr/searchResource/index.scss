@@ -1,0 +1,51 @@
+form#apply_form1 div thead tr th {
+    padding-left: 22px !important;
+}
+div#material-ui-cardContent div thead tr th {
+    padding-left: 22px !important;
+}
+form#apply_form2 tbody {
+    word-break: break-all !important;
+}
+form#pressNoteList tbody {
+    word-break: break-all !important;
+}
+
+form#TenderSearch tbody {
+    word-break: break-all !important;
+}
+form#apply_form1 tbody {
+    word-break: break-all !important;
+  }
+  
+  div#material-ui-resendbody tbody {
+    word-break: break-all !important; 
+}
+
+div#material-ui-cardContent tbody {
+  word-break: break-all !important;
+}
+form#pressGrid tbody {
+    word-break: break-all !important;
+  }
+
+  form#committeeGrid tbody {
+    word-break: break-all !important;
+  }
+
+  div#material-ui-EventWiseReport {
+    overflow: visible !important;
+}
+div#material-ui-LocalityWiseReport {
+  overflow: visible !important;
+}
+
+// span[class*="MUIDataTableBody-emptyTitle"] {
+//   color: red !important;
+// }
+
+// @media only screen and (max-width: 900px) {
+//   span[class*="MUIDataTableBody-emptyTitle"] {
+//   margin-left: -100% !important;
+//   margin-top: 8% !important;
+// }}

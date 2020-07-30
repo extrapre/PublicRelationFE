@@ -1,0 +1,67 @@
+@media only screen and (max-width: 768px) {
+  .apply-wizard-footer button {
+    width: 100% !important; } }
+
+@media only screen and (max-width: 600px) {
+  .apply-wizard-footer button {
+    min-width: auto !important; } }
+
+@media only screen and (min-width: 551px) {
+  .apply-wizard-footer {
+    z-index: 101 !important; } }
+
+@media only screen and (max-width: 551px) {
+  .apply-wizard-footer {
+    background-color: #ffffff;
+    -webkit-box-shadow: 0 -2px 4px 0 rgba(0, 0, 0, 0.24);
+    box-shadow: 0 -2px 4px 0 rgba(0, 0, 0, 0.24);
+    /* padding: 8px; */
+    position: fixed !important;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    text-align: right;
+    display: flex;
+    padding: initial; }
+  .apply-wizard-footer button {
+    width: 100% !important;
+    margin: initial;
+    border: none;
+    margin: 0 !important;
+    border-radius: none !important; } }
+
+.applicant-details-error p {
+  font-size: 14px; }
+
+#custom-containers-propertyMohalla div p {
+  font-size: 14px; }
+
+div#material-ui-pressnotedata {
+  overflow: unset !important; }
+
+.ql-snow .ql-picker.ql-expanded .ql-picker-options {
+  z-index: 102 !important; }
+
+div#material-ui-EmailSmsContent {
+  overflow: unset !important; }
+
+div#material-ui-tenderMSWordTemplate {
+  overflow: unset !important; }
+
+#TimeSeriesReport .MuiPaper-root-550.MuiPaper-elevation4-556.MuiPaper-rounded-551 {
+  overflow: auto !important; }
+
+#TimeSeriesReport .MuiPaper-root-984.MuiPaper-elevation4-990.MuiPaper-rounded-985 {
+  overflow: auto !important; }
+
+#TimeSeriesReport .MuiPaper-root-2154 MuiPaper-elevation4-2160 MuiPaper-rounded-2155 {
+  overflow: auto !important; }
+
+form#TimeSeriesReport > div:last-child {
+  overflow: auto !important; }
+
+.MuiGrid-container-86.MuiGrid-item-87.MuiGrid-grid-xs-12-126.MuiGrid-grid-sm-4-132.background-grey > div:nth-child(2) {
+  word-break: break-all !important; }
+
+.MuiGrid-container-86.MuiGrid-item-87.MuiGrid-grid-xs-12-126.MuiGrid-grid-sm-4-132.background-grey > div:nth-child(4) {
+  margin-right: 10% !important; }

@@ -1,0 +1,38 @@
+.Sociallink div.MuiGrid-grid-sm-3-131 {
+  max-width: 100% !important;
+  padding-right: 20px; }
+
+.MuiTableCell-paddingCheckbox-771 {
+  padding: 0 24px !important; }
+
+.readonlyquill .ql-toolbar.ql-snow {
+  display: none; }
+
+.MuiGrid-grid-xs-12.MuiGrid-grid-sm-12.MuiGrid-grid-xl-12 {
+  width: 100%; }
+
+.ql-container.ql-snow.ql-disabled {
+  border: 1px solid #000; }
+
+.sideMenuItem div span div div svg {
+  height: 24px;
+  width: 24px; }
+
+body.egov-pr-tender-Summary-Publish main .quill.readonlyquill .ql-container.ql-snow.ql-disabled {
+  display: block;
+  border: 0px;
+  padding: 0px 10px;
+  margin-top: -48px; }
+
+body.egov-pr-tender-Summary-Publish main .quill.readonlyquill .ql-container.ql-snow.ql-disabled .ql-editor p {
+  color: #000 !important;
+  font-size: 16px;
+  font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important; }
+
+div#custom-atoms-footer.addpadding {
+  padding-bottom: 66px;
+  background: transparent;
+  box-shadow: none; }
+
+div#custom-atoms-footer {
+  display: none; }

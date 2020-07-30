@@ -1,0 +1,15 @@
+@media only screen and (max-width: 768px) {
+  .review-documents {
+    display: block;
+  }
+}
+.deletemedia {
+    width: auto;
+    color: red;
+    position: absolute;
+    margin: 6px 18%;
+}	
+
+div.event-added-documents div div .deletemedia {
+    display: none;
+}

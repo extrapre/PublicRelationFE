@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding-left: 0px;
+}
+.optionListContainer{
+	position : relative !important;
+	z-index : 99999 !important;
+}
+
+div#multiselectContainerReact .optionContainer {
+  max-height: unset !important;
+  height: auto !important;
+}
+.examples {
+  overflow-x: auto !important;
+}

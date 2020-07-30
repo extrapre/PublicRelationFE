@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding-left: 0px;
+}
+.optionListContainer{
+	position : relative !important;
+	z-index : 99999 !important;
+}
+.MuiFormControl-fullWidth-1594 {
+  width: 95%;
+}
+div#material-ui-searchempContainer {
+  width: 87%;
+}
+div#multiselectContainerReact {
+  width: 98%;
+}
+._2OR24XnUXt8OCrysr3G0XI {
+  border-bottom: 1px solid #949494 !important;
+  width: 100% !important;
+}
+/*i.material-icons {
+  font-size: 42px !important;
+}*/
+#material-ui-applicantTypeSelection ul.optionContainer {
+  max-height: unset !important;
+  height: auto !important;
+}
+
+.examples {
+  overflow-x: auto !important;
+}
